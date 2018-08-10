@@ -1,0 +1,15 @@
+.game-box {
+    width: 450px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    padding-top: 15px;
+    box-shadow: 0px 0px 3px #ccc;
+}
+
+h6, #game {
+    position: relative;
+    left: 10%;
+}
